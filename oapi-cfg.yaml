@@ -1,0 +1,5 @@
+package: spec
+output: internal/spec/spec.gen.go
+generate:
+  chi-server: true
+  models: true
